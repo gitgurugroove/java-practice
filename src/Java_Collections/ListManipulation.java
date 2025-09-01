@@ -9,7 +9,7 @@ public class ListManipulation {
     /**
      * A list having null values in it, remove the null values, and print the list.
      *
-     * @param fruits - List of fruits with null values
+     * @param args - List of fruits with null values
      *               Example: ["Apple", null, "Banana", null, "Orange"]
      */
     public static void main(String[] args) {
